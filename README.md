@@ -1,3 +1,9 @@
+## Get Started
+To run the project type 
+'''
+npm install
+npm run dev
+'''
 ## Inspiration
 Currently, University clubs host events and competitions that provide an opportunity for students to gain accolades and manifest their skills with tangible achievements. These awards are designed to provide a medium for students to display their skills to prospective employers, yet at present, a received award amounts to nothing but a line on a CV. Additionally, unless a paper certificate is distributed, employers have no means of verifying these achievements.
 
