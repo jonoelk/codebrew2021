@@ -1,5 +1,5 @@
 ## Get Started
-To run the project type 
+To run the project type: 
 
 ```
 npm install
